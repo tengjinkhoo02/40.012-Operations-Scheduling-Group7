@@ -1,3 +1,5 @@
+This project is an Operations Scheduling Project that utilises the 'Just-in-Time' (JIT) Algorithm to maximise the latest start time of an operation.
+
 Before running the codes on Rstudio we ensure that there exist:
 1. GUROBI installation
 We are integrating GUROBI optimizer with R, so R should be able to locate the Gurobi license. 
